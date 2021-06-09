@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test" parallel="false">
+    <classes>
+      <class name="com.BMW_Tests.BMW_Testing"/>
+            <class name="com.BMW_Tests.BMW_Testing2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
